@@ -58,7 +58,7 @@ Librería	Uso
 - TailwindCSS	Estilizado rápido, limpio y responsive.
 
 
-🚀 Despliegue
+## 🚀 Despliegue
 Este portafolio puede ser desplegado fácilmente en:
 
 Vercel
@@ -69,7 +69,7 @@ GitHub Pages
 
 
 
-📄 Licencia
+## 📄 Licencia
 Este proyecto está bajo la licencia MIT.
 Siéntete libre de usarlo y adaptarlo para tu portafolio personal.
 
